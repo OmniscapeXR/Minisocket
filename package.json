@@ -1,7 +1,7 @@
 {
   "name": "com.omniscape.minisocket",
   "displayName": "MiniSocket IO",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "unity": "2021.3",
   "description": "Unity Mini Socket.IO — minimal Socket.IO v5 client (Engine.IO v4, WebSocket-only)",
   "author": {
